@@ -26,7 +26,7 @@
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "student-resume.pdf"  
 },
-"Project 1": {
+"Project1": {
     "Title": "Systems Proposal",
     "Desc": "This is my Systems Proposal project. It is focused on the planning, process, and design aspects of the Software development life-cycle of my proposed system. This year I decided on a project manager application and named it Project Soloma.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
