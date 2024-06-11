@@ -24,13 +24,13 @@
   "EmploymentText": "Use this to add some narrative to your employment section",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
   "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Resume": "Andres Gaspar RESUME.pdf"  
 },
 "Project1": {
     "Title": "Systems Proposal",
     "Desc": "This is my Systems Proposal project. It is focused on the planning, process, and design aspects of the Software development life-cycle of my proposed system. This year I decided on a project manager application and named it Project Soloma.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "MainImage": "Project Soloma pg1.png",
+    "DetailImages": ["Project Soloma pg1.png"]
   }
 }
