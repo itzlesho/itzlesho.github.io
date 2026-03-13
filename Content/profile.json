@@ -32,5 +32,11 @@
     "GitHubRepo": "https://github.com/itzlesho/itzlesho.github.io/tree/main/Content/System%20Proposal",
     "MainImage": "Project Soloma pg1.png",
     "DetailImages": ["Project Soloma pg1.png"]
-  }
+  },
+"Project2": {
+  "Title": "Greedy Algorithm Analysis",
+  "Desc": "Analysis on an instance of the task scheduling problem - image source: Zybooks 4.3.1 Task Scheduling ",
+  "GitHubRepo": "https://github.com/itzlesho/Greedy-AlgoAnalysis",
+  "MainImage": "Zybooks pic.png"
+}
 }
