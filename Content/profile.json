@@ -37,16 +37,14 @@
   "Title": "Greedy Algorithm Analysis",
   "Desc": "Analysis on an instance of the task scheduling problem - image source: Zybooks 4.3.1 Task Scheduling ",
   "GitHubRepo": "https://github.com/itzlesho/Greedy-AlgoAnalysis",
-  "MainImage": "Zybooks pic.png"
+  "MainImage": "Zybooks pic.png",
+  "DetailImages":["Zybooks pic.png"]
 },
 "Project3": {
   "Title": "Identity Quest",
   "Desc": "Collaborated in a team to develop a rougelike deckbuilder in Godot featuring procedural encounters, strategic turn based combat, and personality based progression systems. Contriubted to the design and implementation of modular gameplay achitecture for enemies, battles, run progression, AI behavior, audio management, and player customization systems. Worked closely with teamates to build a cohesive and replayable experience where player decisions and combat styles influence identity, story themes, and progression throughout each run.",
   "GitHubRepo": "https://github.com/The-Rogues/RoguesProject.git",
-  "MainImage": "TheRouges.png"
-},
-"Project4":{
-  "Title": "Project 4"
+  "MainImage": "TheRouges.png",
+  "DetailImages": ["TheRouges.png"]
 }
-
 }
