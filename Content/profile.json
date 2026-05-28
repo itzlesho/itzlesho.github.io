@@ -28,21 +28,21 @@
 },
 "Project1": {
     "Title": "Systems Proposal",
-    "Desc": "This is my Systems Proposal project. It is focused on the planning, process, and design aspects of the Software development life-cycle of my proposed system. This year I decided on a project manager application and named it Project Soloma.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Desc": "This is my Systems Proposal project. It is focused on the planning, process, and design aspects of the Software development life-cycle of my proposed system. In 2025 I decided on a project manager application and named it Project Soloma. This project was important for me to understand the foundations in system design. For design layout and UML frameworks I used draw.io to create my Use Case diagrams, UI wireframs, and Screen Navigation Diagrams. I plan to fully implement this project after graduation <br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com/itzlesho/itzlesho.github.io/tree/main/Content/System%20Proposal",
     "MainImage": "Project Soloma pg1.png",
     "DetailImages": ["Project Soloma pg1.png"]
   },
 "Project2": {
   "Title": "Greedy Algorithm Analysis",
-  "Desc": "Analysis on an instance of the task scheduling problem - image source: Zybooks 4.3.1 Task Scheduling ",
+  "Desc": "Analysis on an instance of the task scheduling problem - image source: Zybooks 4.3.1 Task Scheduling <br><br> This projects purpose was to show my understanding of a greedy algorithm. I used VS code for my programming environment and python as the langage of implementation. From this project, I became more prepared for my algorithms analysis class which I passed winter of 2026. <br><br> I do not plan to implement this further",
   "GitHubRepo": "https://github.com/itzlesho/Greedy-AlgoAnalysis",
   "MainImage": "Zybooks pic.png",
   "DetailImages":["Zybooks pic.png"]
 },
 "Project3": {
   "Title": "Identity Quest",
-  "Desc": "Collaborated in a team to develop a rougelike deckbuilder in Godot featuring procedural encounters, strategic turn based combat, and personality based progression systems. Contriubted to the design and implementation of modular gameplay achitecture for enemies, battles, run progression, AI behavior, audio management, and player customization systems. Worked closely with teamates to build a cohesive and replayable experience where player decisions and combat styles influence identity, story themes, and progression throughout each run.",
+  "Desc": "Collaborated in a team to develop a rougelike deckbuilder in Godot featuring procedural encounters, strategic turn based combat, and personality based progression systems. Contriubted to the design and implementation of modular gameplay achitecture for enemies, battles, run progression, AI behavior, audio management, and player customization systems. Worked closely with teamates to build a cohesive and replayable experience where player decisions and combat styles influence identity, story themes, and progression throughout each run.<br><br> Current bugs include: Audio system, Reward system crashing, and Final Battle bugs. <br><br> This is our most up to date and closest to MVP version. Further improvements will be minimal in terms of scope.",
   "GitHubRepo": "https://github.com/The-Rogues/RoguesProject.git",
   "MainImage": "TheRouges.png",
   "DetailImages": ["TheRouges.png"]
